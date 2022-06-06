@@ -1,0 +1,11 @@
+﻿  board.cpp
+  enumerations.cpp
+  gui.cpp
+C:\Users\pduln\source\repos\chess_engine\chess_engine\gui.h(5,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'SDL_ttf.h': No such file or directory
+  main_graphical.cpp
+C:\Users\pduln\source\repos\chess_engine\chess_engine\main_graphical.cpp(2,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'SDL_ttf.h': No such file or directory
+  moves.cpp
+C:\Users\pduln\source\repos\chess_engine\chess_engine\moves.cpp(62,32): warning C4554: „<<”: Sprawdź pierwszeństwo operatorów w poszukiwaniu możliwego błędu; użyj nawiasów, aby ujednoznacznić pierwszeństwo
+C:\Users\pduln\source\repos\chess_engine\chess_engine\moves.cpp(148,32): warning C4554: „<<”: Sprawdź pierwszeństwo operatorów w poszukiwaniu możliwego błędu; użyj nawiasów, aby ujednoznacznić pierwszeństwo
+  Generowanie kodu...
+C:\Users\pduln\source\repos\chess_engine\chess_engine\moves.cpp(474): warning C4715: "Moves::makeMove”: niewszystkie ścieżki kodu zwracają wartość

@@ -1,0 +1,16 @@
+﻿  board.cpp
+  enumerations.cpp
+  gui.cpp
+  The contents of <format> are available only in c++latest mode with concepts support;
+  see https://github.com/microsoft/STL/issues/1814 for details.
+  main_graphical.cpp
+  The contents of <format> are available only in c++latest mode with concepts support;
+  see https://github.com/microsoft/STL/issues/1814 for details.
+C:\Users\pduln\source\repos\chess_engine\chess_engine\main_graphical.cpp(55,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\pduln\source\repos\chess_engine\chess_engine\main_graphical.cpp(211,18): warning C4244: "inicjowanie": konwersja z "double" do "Uint32", możliwa utrata danych
+  moves.cpp
+C:\Users\pduln\source\repos\chess_engine\chess_engine\moves.cpp(61,32): warning C4554: „<<”: Sprawdź pierwszeństwo operatorów w poszukiwaniu możliwego błędu; użyj nawiasów, aby ujednoznacznić pierwszeństwo
+C:\Users\pduln\source\repos\chess_engine\chess_engine\moves.cpp(144,32): warning C4554: „<<”: Sprawdź pierwszeństwo operatorów w poszukiwaniu możliwego błędu; użyj nawiasów, aby ujednoznacznić pierwszeństwo
+  Generowanie kodu...
+C:\Users\pduln\source\repos\chess_engine\chess_engine\moves.cpp(464): warning C4715: "Moves::makeMove”: niewszystkie ścieżki kodu zwracają wartość
+  chess_engine.vcxproj -> C:\Users\pduln\source\repos\chess_engine\x64\Debug\chess_engine.exe
